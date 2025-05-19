@@ -20,7 +20,7 @@
 
 ## 🖼 Preview
 
-![Drafting and Modeling Interface](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductScreenshot%2Fd201d3a4-bbe5-42d1-8c18-1927351a10d7.png&w=3840&q=75)  
+![Drafting and Modeling Interface](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/5797c811-2c2d-4d98-be30-0b8db98be86f.png)  
 *Professional workspace with active BIM elements*
 
 ![Hybrid BIM/CAD View](https://res.cloudinary.com/vectorworks/image/upload/f_auto,q_auto/v1694470668/pages/architect/heros/hero-arch-mid-2880x1450.png)  
